@@ -1,0 +1,8 @@
+build
+.cache
+std
+std.exe
+makedata
+makedata.exe
+brute_force
+brute_force.exe
