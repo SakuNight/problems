@@ -1,0 +1,8 @@
+build
+.cache
+std
+std.exe
+gen
+gen.exe
+bf
+bf.exe

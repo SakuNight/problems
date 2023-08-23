@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "debug std",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceRoot}/build/std",
+            "cwd": "."
+        },
+        {
+            "name": "debug bf",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceRoot}/build/bf",
+            "cwd": "."
+        }
+    ]
+}
